@@ -1,0 +1,20 @@
+*{
+    background-color: aliceblue;
+}
+
+.modal-header {
+    background: #F7941E;
+    color: #fff;
+}
+
+.required:after {
+    content: "*";
+    color: red;
+}
+/* .bg-color{
+    background-color:#79a4da ; 
+} */
+
+.button-space{
+    padding-left: 30px;
+}
